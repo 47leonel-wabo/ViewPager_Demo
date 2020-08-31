@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewPager Demo</string>
+    <string name="hello_blank_fragment">Hello Second fragment</string>
+    <string name="hello_blank_fragment2">Hello First fragment</string>
+</resources>
